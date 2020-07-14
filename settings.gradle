@@ -1,2 +1,4 @@
 rootProject.name = 'selenium-tests'
+include 'iframes'
+include 'scope'
 
